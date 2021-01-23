@@ -1,1 +1,2 @@
-# Master-chef-jr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
